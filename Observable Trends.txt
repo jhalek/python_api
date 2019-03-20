@@ -1,0 +1,7 @@
+Observable Trends
+
+1) Max temperature decreases a latutide widens away from 0. Therefore higher latitude experience higher temps.
+
+2) Humidity seems to be somewhat concentrated at higher positive latitudes. Although the correlation is not incredibly strong.
+
+3) There is no corrlation bewteen wind speed and latitude.
